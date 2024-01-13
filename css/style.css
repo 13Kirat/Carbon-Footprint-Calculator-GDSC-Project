@@ -42,11 +42,11 @@
 
 .col-md-10{
     background: #ef233c;
-    border-top: 10px solid rgb(30, 195, 30);
+    border-top: 5px solid rgb(30, 195, 30);
 }
 
 .col-md-2{
     background: rgb(2,0,36);
-    border-right: 10px solid rgb(30, 195, 30);
+    border-right: 5px solid rgb(30, 195, 30);
     height: 100vh;
 }
